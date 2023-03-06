@@ -1,0 +1,15 @@
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example002_introArray\bin\Debug\net6.0\Example002_introArray.exe
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example002_introArray\bin\Debug\net6.0\Example002_introArray.deps.json
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example002_introArray\bin\Debug\net6.0\Example002_introArray.runtimeconfig.json
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example002_introArray\bin\Debug\net6.0\Example002_introArray.dll
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example002_introArray\bin\Debug\net6.0\Example002_introArray.pdb
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example002_introArray\obj\Debug\net6.0\Example002_introArray.csproj.AssemblyReference.cache
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example002_introArray\obj\Debug\net6.0\Example002_introArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example002_introArray\obj\Debug\net6.0\Example002_introArray.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example002_introArray\obj\Debug\net6.0\Example002_introArray.AssemblyInfo.cs
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example002_introArray\obj\Debug\net6.0\Example002_introArray.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example002_introArray\obj\Debug\net6.0\Example002_introArray.dll
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example002_introArray\obj\Debug\net6.0\refint\Example002_introArray.dll
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example002_introArray\obj\Debug\net6.0\Example002_introArray.pdb
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example002_introArray\obj\Debug\net6.0\Example002_introArray.genruntimeconfig.cache
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example002_introArray\obj\Debug\net6.0\ref\Example002_introArray.dll
