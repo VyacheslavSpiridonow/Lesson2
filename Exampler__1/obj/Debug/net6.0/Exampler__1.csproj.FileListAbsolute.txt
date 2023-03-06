@@ -1,0 +1,15 @@
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Exampler__1\bin\Debug\net6.0\Exampler__1.exe
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Exampler__1\bin\Debug\net6.0\Exampler__1.deps.json
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Exampler__1\bin\Debug\net6.0\Exampler__1.runtimeconfig.json
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Exampler__1\bin\Debug\net6.0\Exampler__1.dll
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Exampler__1\bin\Debug\net6.0\Exampler__1.pdb
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Exampler__1\obj\Debug\net6.0\Exampler__1.csproj.AssemblyReference.cache
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Exampler__1\obj\Debug\net6.0\Exampler__1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Exampler__1\obj\Debug\net6.0\Exampler__1.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Exampler__1\obj\Debug\net6.0\Exampler__1.AssemblyInfo.cs
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Exampler__1\obj\Debug\net6.0\Exampler__1.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Exampler__1\obj\Debug\net6.0\Exampler__1.dll
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Exampler__1\obj\Debug\net6.0\refint\Exampler__1.dll
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Exampler__1\obj\Debug\net6.0\Exampler__1.pdb
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Exampler__1\obj\Debug\net6.0\Exampler__1.genruntimeconfig.cache
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Exampler__1\obj\Debug\net6.0\ref\Exampler__1.dll

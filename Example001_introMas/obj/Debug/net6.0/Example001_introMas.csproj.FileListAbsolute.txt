@@ -1,0 +1,15 @@
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example001_introMas\obj\Debug\net6.0\Example001_introMas.csproj.AssemblyReference.cache
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example001_introMas\obj\Debug\net6.0\Example001_introMas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example001_introMas\obj\Debug\net6.0\Example001_introMas.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example001_introMas\obj\Debug\net6.0\Example001_introMas.AssemblyInfo.cs
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example001_introMas\obj\Debug\net6.0\Example001_introMas.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example001_introMas\bin\Debug\net6.0\Example001_introMas.exe
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example001_introMas\bin\Debug\net6.0\Example001_introMas.deps.json
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example001_introMas\bin\Debug\net6.0\Example001_introMas.runtimeconfig.json
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example001_introMas\bin\Debug\net6.0\Example001_introMas.dll
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example001_introMas\bin\Debug\net6.0\Example001_introMas.pdb
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example001_introMas\obj\Debug\net6.0\Example001_introMas.dll
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example001_introMas\obj\Debug\net6.0\refint\Example001_introMas.dll
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example001_introMas\obj\Debug\net6.0\Example001_introMas.pdb
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example001_introMas\obj\Debug\net6.0\Example001_introMas.genruntimeconfig.cache
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(лекция)\Lesson 2\Example001_introMas\obj\Debug\net6.0\ref\Example001_introMas.dll
